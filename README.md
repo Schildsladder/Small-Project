@@ -1,11 +1,7 @@
-# Python-Mandelbrot
- Python 2.7 program to plot mandelbrot set
- 
+# Small Project
+ Various small project that i did over the years are contained in this repository
 ## Usage
-1. Install required modules with `pip install -r requirements.txt`.
-2. Run the program with `python mandelbrot_generator.py`
-3. Wait for the program to compute
-4. Check the notebook file
+
 
 ## Commandline options
 
